@@ -1,0 +1,11 @@
+{
+  "play": [ "p" ],
+  "skip": [ "s" ],
+  "queue": [ "q" ],
+  "help": [ "h" ],
+  "join": [ "j" ],
+  "pause": [ "pa" ],
+  "resume": [ "re" ],
+  "volume": [ "v" ]
+
+}
